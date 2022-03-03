@@ -1,0 +1,211 @@
+{
+  "tasks": [
+    {
+      "type": "placement",
+      "name": "Выставка состава 545235",
+      "timeStart": "19:20:00",
+      "timeEnd": "19:24:50",
+      "timeTotal": "4 мин 50 сек",
+      "progress": 70,
+      "progressCompleted": 50,
+      "open": true,
+      "stages": [
+        {
+          "type": "route",
+          "name": "Маршрут до М12",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "coupling",
+          "name": "Прицепка",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "putShoe",
+          "name": "Закрепление",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "waiting",
+          "name": "Ожидание",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "uncoupling",
+          "name": "Отцепка",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 60
+        },
+        {
+          "type": "installFence",
+          "name": "Ограждение",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 0
+        },
+        {
+          "type": "removeFence",
+          "name": "Снятие",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "type": "formation",
+      "name": "Формирование состава 545235",
+      "timeStart": "19:20:00",
+      "timeEnd": "19:24:50",
+      "timeTotal": "4 мин 50 сек",
+      "progress": 0,
+      "progressCompleted": 0,
+      "open": false,
+      "stages": [
+        {
+          "type": "route",
+          "name": "Маршрут до М12",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "coupling",
+          "name": "Прицепка",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "putShoe",
+          "name": "Закрепление",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "waiting",
+          "name": "Ожидание",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "uncoupling",
+          "name": "Отцепка",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 60
+        },
+        {
+          "type": "installFence",
+          "name": "Ограждение",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 0
+        },
+        {
+          "type": "removeFence",
+          "name": "Снятие",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "type": "feeding",
+      "name": "Подача вагона 545235",
+      "timeStart": "19:20:00",
+      "timeEnd": "19:24:50",
+      "timeTotal": "4 мин 50 сек",
+      "progress": 0,
+      "progressCompleted": 0,
+      "open": false,
+      "stages": [
+        {
+          "type": "route",
+          "name": "Маршрут до М12",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "coupling",
+          "name": "Прицепка",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "putShoe",
+          "name": "Закрепление",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "waiting",
+          "name": "Ожидание",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 100
+        },
+        {
+          "type": "uncoupling",
+          "name": "Отцепка",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 60
+        },
+        {
+          "type": "installFence",
+          "name": "Ограждение",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 0
+        },
+        {
+          "type": "removeFence",
+          "name": "Снятие",
+          "timeStart": "19:20:00",
+          "timeEnd": "19:22:30",
+          "timeTotal": "2 мин 30 сек",
+          "progress": 0
+        }
+      ]
+    }
+  ],
+  "timeMove": "6 ч 00 мин 00 сек",
+  "timeCars": "6 ч 00 мин 00 сек",
+  "timeIdle": "6 ч 00 мин 00 сек"
+}
